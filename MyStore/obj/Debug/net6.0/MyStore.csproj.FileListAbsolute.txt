@@ -25,9 +25,15 @@ C:\Users\maxzm\source\repos\MyStore\MyStore\obj\Debug\net6.0\staticwebassets.dev
 C:\Users\maxzm\source\repos\MyStore\MyStore\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
 C:\Users\maxzm\source\repos\MyStore\MyStore\obj\Debug\net6.0\scopedcss\bundle\MyStore.styles.css
 C:\Users\maxzm\source\repos\MyStore\MyStore\obj\Debug\net6.0\scopedcss\projectbundle\MyStore.bundle.scp.css
-C:\Users\maxzm\source\repos\MyStore\MyStore\obj\Debug\net6.0\MyStore.csproj.CopyComplete
 C:\Users\maxzm\source\repos\MyStore\MyStore\obj\Debug\net6.0\MyStore.dll
 C:\Users\maxzm\source\repos\MyStore\MyStore\obj\Debug\net6.0\refint\MyStore.dll
 C:\Users\maxzm\source\repos\MyStore\MyStore\obj\Debug\net6.0\MyStore.pdb
 C:\Users\maxzm\source\repos\MyStore\MyStore\obj\Debug\net6.0\MyStore.genruntimeconfig.cache
 C:\Users\maxzm\source\repos\MyStore\MyStore\obj\Debug\net6.0\ref\MyStore.dll
+C:\Users\maxzm\source\repos\MyStore\MyStore\obj\Debug\net6.0\MyStore.sourcelink.json
+C:\Users\maxzm\source\repos\MyStore\MyStore\obj\Debug\net6.0\staticwebassets\msbuild.MyStore.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\maxzm\source\repos\MyStore\MyStore\obj\Debug\net6.0\staticwebassets\msbuild.build.MyStore.props
+C:\Users\maxzm\source\repos\MyStore\MyStore\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.MyStore.props
+C:\Users\maxzm\source\repos\MyStore\MyStore\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.MyStore.props
+C:\Users\maxzm\source\repos\MyStore\MyStore\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\maxzm\source\repos\MyStore\MyStore\obj\Debug\net6.0\MyStore.csproj.Up2Date
